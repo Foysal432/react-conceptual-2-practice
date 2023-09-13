@@ -1,0 +1,29 @@
+.container{
+    max-width: 100%;
+}
+.card-container{
+    display: flex;
+    width: 100%;
+ 
+}
+.cart{
+    
+    padding-left: 30px;
+}
+.right-card{
+    width: 90%;
+}
+.left-card{
+    width: 250px;
+    height: 250px;
+    
+    border: 2px solid blanchedalmond;
+}
+.img img{
+    width: 70px;
+    border-radius: 50px;
+   
+}
+.img{
+    text-align: center;
+}
